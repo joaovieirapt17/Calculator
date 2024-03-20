@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bruno/Desktop/EEC/2_Ano/1_Semestre/Projeto_de_Sistemas_Digitais/TP3/calculadora/calculadora.srcs/sources_1/new/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bruno/Desktop/EEC/2_Ano/1_Semestre/Projeto_de_Sistemas_Digitais/TP3/calculadora/calculadora.srcs/sources_1/new/statemachine.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'statemachine'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bruno/Desktop/EEC/2_Ano/1_Semestre/Projeto_de_Sistemas_Digitais/TP3/calculadora/calculadora.srcs/sources_1/new/calculadora.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'calculadora'

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Jan  5 14:54:28 2024
+# Process ID: 5856
+# Current directory: C:/Users/Utilizador/Desktop/calculadora/calculadora_final/calculadora_final.runs/synth_1
+# Command line: vivado.exe -log calculadora.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source calculadora.tcl
+# Log file: C:/Users/Utilizador/Desktop/calculadora/calculadora_final/calculadora_final.runs/synth_1/calculadora.vds
+# Journal file: C:/Users/Utilizador/Desktop/calculadora/calculadora_final/calculadora_final.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source calculadora.tcl -notrace
